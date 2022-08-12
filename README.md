@@ -1,6 +1,7 @@
 # hello-world
-Hello World Repository
-## Languages
+Hello my name is **Nur Falah Abdurrozaq**
+
+## Programing Languages
 - Javascript
 - Python
 - Java
