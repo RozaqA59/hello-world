@@ -7,3 +7,4 @@ Hello my name is **Nur Falah Abdurrozaq**
 - Java
 - PHP
 - Dart
+- Laravel
